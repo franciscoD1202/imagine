@@ -75,9 +75,16 @@ alum-davidMayorga:
 #     image: /img/people/prof-x.png
 #     bio: Professor
 
+
+ugrad-franciscoDurango:
+    display_name: Francisco Manuel Jose Durango Uribe
+    role: ugrad-alum
+    webpage: https://github.com/franciscoD1202
+    image: /img/people/foto_FranciscoManuelJoseDurangoUribe.png
+    
 ugrad-carlosGonzalez:
     display_name: Carlos Eduardo González Álvarez
-    role: ugrad
+    role: ugradhttps://github.com/john-guerra/imagine/tree/master/_data
     webpage: https://cegonzalv.github.io
     image: /img/people/foto_CarlosGonzalez.png
 
@@ -280,12 +287,6 @@ grad-joseDorado:
     role: grad
     webpage: https://www.researchgate.net/profile/Jose_Dorado5
     image: /img/people/foto_JoseDorado.jpg
-
-grad-victorGarzon:
-    display_name: Victor Garzón
-    role: grad
-    webpage: https://www.researchgate.net/profile/Victor_Garzon-Marin
-    image: /img/people/foto_VictorGarzon.jpg
 
 grad-juanPabloReyes:
     display_name: Juan Pablo Reyes Gomez
